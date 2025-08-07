@@ -1,5 +1,6 @@
 '''
 PART 2: SIMILAR ACTROS BY GENRE
+
 Using the imbd_movies dataset:
 - Create a data frame, where each row corresponds to an actor, each column represents a genre, and each cell captures how many times that row's actor has appeared in that column’s genre 
 - Using this data frame as your “feature matrix”, select an actor (called your “query”) for whom you want to find the top 10 most similar actors based on the genres in which they’ve starred 

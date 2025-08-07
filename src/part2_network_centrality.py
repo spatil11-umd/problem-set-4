@@ -1,8 +1,8 @@
 '''
-PART 1: NETWORK CENTRALITY METRICS
+PART 2: NETWORK CENTRALITY METRICS
 
 Using the imbd_movies dataset
-- Guild a graph and perform some rudimentary graph analysis, extracting centrality metrics from it. 
+- Build a graph and perform some rudimentary graph analysis, extracting centrality metrics from it. 
 - Below is some basic code scaffolding that you will need to add to. 
 - Tailor this code scaffolding and its stucture to however works to answer the problem
 - Make sure the code is line with the standards we're using in this class 
