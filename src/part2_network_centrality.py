@@ -3,14 +3,15 @@ PART 2: NETWORK CENTRALITY METRICS
 
 Using the imbd_movies dataset
 - Build a graph and perform some rudimentary graph analysis, extracting centrality metrics from it. 
-- Below is some basic code scaffolding that you will need to add to. 
+- Below is some basic code scaffolding that you will need to add to
 - Tailor this code scaffolding and its stucture to however works to answer the problem
-- Make sure the code is line with the standards we're using in this class 
+- Make sure the code is inline with the standards we're using in this class 
 '''
 
 import numpy as np
 import pandas as pd
 import networkx as nx
+import json
 
 # Build the graph
 g = nx.Graph()
@@ -43,8 +44,6 @@ with open() as in_file:
                 # Add an edge for these actors
                 
                 
-                
-            i += 1 
 
 
 # Print the info below
